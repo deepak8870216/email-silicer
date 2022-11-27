@@ -1,1 +1,3 @@
 # email-silicer
+Email silicer by using python is done 
+we get the output by sample output also...
